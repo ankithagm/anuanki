@@ -1,0 +1,2 @@
+a firewall is a security system designed to prevent unathorized access into or out of a computer network
+change/set windows desktop security pin/password and check windows update system
